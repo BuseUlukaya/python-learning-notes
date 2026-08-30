@@ -5,7 +5,6 @@ kişisel ders notlarını ve uygulama örneklerini içermektedir.
 Bu notlar, Python’un temellerini sistemli bir şekilde öğrenmek, konuları tekrar edebilmek
 ve öğrenme sürecimi düzenli olarak belgelemek amacıyla hazırlanmıştır.
 
-# Amaç
 Bu repository’nin temel amaçları:
 
 - Python programlama dilini sıfırdan ve sağlam temellerle öğrenmek  
